@@ -175,6 +175,7 @@
 
 // const arrow = () => 1;
 // console.log(arrow());
+
 // ===== есть еще анонимная самовызывающаяся функция
 // (()=>{console.log(1) })();
 
@@ -279,3 +280,10 @@
 //   console.log(result);
 
 
+// const countPrice = function (str,price) {
+// console.log(str.split(' ').length*price);
+
+// }
+
+// countPrice('Hello word', 50)
+// countPrice('Hello word Hello word', 10)
